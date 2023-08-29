@@ -1,0 +1,11 @@
+Выданыне призы:
+id:2 doll
+id:1 car
+id:2 doll
+id:1 car
+id:1 car
+id:2 doll
+id:1 car
+id:1 car
+id:3 cube
+id:2 doll
